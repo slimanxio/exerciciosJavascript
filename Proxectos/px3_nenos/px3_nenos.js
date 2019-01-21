@@ -9,5 +9,3 @@ document.write ( '<h1> Tus calculos: </h1><br>' )
 document.write ( 'Suma:  ' + (num1 + num2) + '<br>')
 document.write ( 'Resta:  ' + (num1 - num2) + '<br>')
 document.write ( 'Multiplicación:  ' + (num1 * num2) + '<br>')
-
-/*---- Volver a empezar ----*/
