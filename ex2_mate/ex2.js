@@ -27,12 +27,12 @@ document.write('<br> <hr>El resutado de tu suma entre 0 será...'+ solucionado/n
 document.write('<hr><h3>Javascript busca un número entre 0 e 5</h3>');
 
 var misterio = Math.random();
-document.write('<br>Xenero un número aleatorio menor ca un: '+ misterio);
+document.write('<br>Número aleatorio menor que uno: '+ misterio);
 
 //olliño con este truquito para non crear máis variables
 misterio = misterio*5;
-document.write('<br> Agora está entre 0 e 5: '+ misterio);
+document.write('<br> Numero entre 0 e 5: '+ misterio);
 
 //olliño con este truquito para non crear máis variables (outra vez)
 misterio = Math.round(misterio)
-document.write('<br> Redondeo para no andar con decimales '+ misterio);
+document.write('<br> Adios decimales '+ misterio);

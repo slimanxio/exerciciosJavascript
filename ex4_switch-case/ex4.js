@@ -25,7 +25,6 @@ switch(resposta)
 	case 'marabillosa':
 		document.write('QUE SORTE 🤣');
 	break;
-	case 'guapo':
 	case 'guapa':
 		document.write('🤨 ENGREÍDA');
 	break;
